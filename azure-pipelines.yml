@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: myubuntuagentpool
+pool: ubuntumachine
 
 steps:
 - task: Maven@3
